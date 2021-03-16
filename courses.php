@@ -18,37 +18,37 @@
           <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Gallery
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <li><a class="dropdown-item" href="class.html">Class Room</a></li>
-                  <li><a class="dropdown-item" href="library.html">Library</a></li>
-                  <li><a class="dropdown-item" href="lab.html">Lab</a></li>
-                  <li><a class="dropdown-item" href="amigos.html">Amigos</a></li>
+                  <li><a class="dropdown-item" href="class.php">Class Room</a></li>
+                  <li><a class="dropdown-item" href="library.php">Library</a></li>
+                  <li><a class="dropdown-item" href="lab.php">Lab</a></li>
+                  <li><a class="dropdown-item" href="amigos.php">Amigos</a></li>
                 </ul>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="courses.html">Courses </a>
+                <a class="nav-link" href="courses.php">Courses </a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Faculty
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <li><a class="dropdown-item" href="cs.html">Computer Science</a></li>
-                  <li><a class="dropdown-item" href="socialwrk.html">Social Work</a></li>
-                  <li><a class="dropdown-item" href="commerce.html">Commerce</a></li>
+                  <li><a class="dropdown-item" href="cs.php">Computer Science</a></li>
+                  <li><a class="dropdown-item" href="socialwrk.php">Social Work</a></li>
+                  <li><a class="dropdown-item" href="commerce.php">Commerce</a></li>
                 </ul>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact </a>
+                <a class="nav-link" href="contact.php">Contact </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="aboutus.html">About</a>
+                <a class="nav-link" href="aboutus.php">About</a>
               </li>
             </ul>
           </div>
